@@ -12,13 +12,17 @@ How to reach me:
 
 
 
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/karolina-sas//)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/steam.svg' alt='steam' height='40'>](https://steamcommunity.com/profiles/76561198830860627/)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg' alt='behance' height='40'>](https://www.behance.net/karolinasas/projects)  
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' align="center" height='30'>](https://www.linkedin.com/in/https://www.linkedin.com/in/karolina-sas//)  LinkedIn profile
+ 
+  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/steam.svg' align="center" alt='steam' height='30'>](https://steamcommunity.com/profiles/76561198830860627/) Steam community
+ 
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg' align="center" alt='behance' height='30'>](https://www.behance.net/karolinasas/projects)  Behance portfolio
 
 :purple_heart:  :black_heart: :white_heart: :purple_heart:  :black_heart: :white_heart:  :purple_heart:  :black_heart: :white_heart: :purple_heart:  :black_heart: :white_heart:
 :purple_heart:  :black_heart: :white_heart: :purple_heart:  :black_heart: :white_heart:  :purple_heart:  :black_heart: :white_heart: :purple_heart:  :black_heart: :white_heart:
 
 
-
+ 
 <!--
 **Karolina-Sas/Karolina-Sas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
