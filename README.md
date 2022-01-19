@@ -18,8 +18,6 @@ How to reach me:
  
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg' align="center" alt='behance' height='30'>](https://www.behance.net/karolinasas/projects)  Behance portfolio
 
-:purple_heart:  :black_heart: :white_heart: :purple_heart:  :black_heart: :white_heart:  :purple_heart:  :black_heart: :white_heart: :purple_heart:  :black_heart: :white_heart:
-:purple_heart:  :black_heart: :white_heart: :purple_heart:  :black_heart: :white_heart:  :purple_heart:  :black_heart: :white_heart: :purple_heart:  :black_heart: :white_heart:
 
 
  
