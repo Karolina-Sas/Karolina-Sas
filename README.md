@@ -1,4 +1,4 @@
-###  :white_heart: Hi there, I am Karolina  :white_heart:
+###   Hi there, I am Karolina  
 
 
 
