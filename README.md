@@ -1,5 +1,6 @@
 ###   Hi there, I am Karolina  
 
+![tło2](https://user-images.githubusercontent.com/68974023/166574060-9d10c28a-9c69-4854-868a-686e47057560.png)
 
 
 I am currently learning frontend technologies and Python. Thanks to Raspberry Pi I am also familiarizing myself with Unix environment and physical computing. 
