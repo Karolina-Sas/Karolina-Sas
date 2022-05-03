@@ -1,8 +1,5 @@
 ![Beznazwy-2](https://user-images.githubusercontent.com/68974023/166577806-a3b537f4-7549-4d01-baed-a2fdb67b64e4.png)
-
-
 ##   Hi there, I am Karolina 
-
 
 ```diff
 I am currently learning frontend technologies and Python.
@@ -26,7 +23,7 @@ How to reach me:
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg' align="center" alt='behance' height='30'>](https://www.behance.net/karolinasas/projects)  ``` Behance portfolio``` 
 
 
-![Beznazwy-2](https://user-images.githubusercontent.com/68974023/166577654-5aff5c1f-bb8e-414b-b80d-7cedb0033ce0.png)
+
 
 
  
