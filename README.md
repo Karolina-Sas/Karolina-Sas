@@ -1,5 +1,5 @@
 ![Beznazwy-2](https://user-images.githubusercontent.com/68974023/166577806-a3b537f4-7549-4d01-baed-a2fdb67b64e4.png)
-##   Hi there, I am Karolina 
+
 
 ```diff
 I am currently learning frontend technologies and Python.
