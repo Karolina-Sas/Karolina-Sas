@@ -22,7 +22,7 @@ Thanks to Raspberry Pi I am also familiarizing myself with Unix environment and 
 <img align="left" img height="42" width="42" style="padding-right:20px;"  src="https://cdn.simpleicons.org/Python/BCADE5" />
  </p>
 
-
+</br>
 </br>How to reach me:
 
 
