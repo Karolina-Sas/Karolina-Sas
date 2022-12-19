@@ -48,7 +48,7 @@ My personal passion for video games also translates into learning about game eng
 
 
 
-<h3>How to reach me:</h3>
+<h3> 📳 How to reach me:</h3>
 
 [<img align="left" img height="42" width="42" style="padding-right:20px;"  src="https://cdn.simpleicons.org/Linkedin/7BA1F1" />](https://www.linkedin.com/in/https://www.linkedin.com/in/karolina-sas//) ``` LinkedIn profile```
 <br/><br/>
