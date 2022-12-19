@@ -7,6 +7,8 @@ Thanks to Raspberry Pi I am also familiarizing myself with Unix environment and 
 
 ```
 
+<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons" />
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=62B3F7&width=435&lines=Python)](https://git.io/typing-svg)\
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=62B3F7&width=435&lines=Linux)](https://git.io/typing-svg)
 
