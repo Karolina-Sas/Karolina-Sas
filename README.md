@@ -17,6 +17,7 @@ Thanks to Raspberry Pi I am also familiarizing myself with Unix environment and 
 <img align="left" img height="42" width="42" style="padding-right:20px;"  src="https://cdn.simpleicons.org/Wireshark/BCADE5" />
 <img align="left" img height="42" width="42" style="padding-right:20px;"  src="https://cdn.simpleicons.org/Python/BCADE5" />
  </p>
+ \
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=62B3F7&width=435&lines=Python)](https://git.io/typing-svg)\
