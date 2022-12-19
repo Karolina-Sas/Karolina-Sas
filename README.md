@@ -23,7 +23,7 @@ Thanks to Raspberry Pi I am also familiarizing myself with Unix environment and 
  </p>
 
 
-How to reach me:
+\How to reach me:
 
 
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' align="center" height='30'>](https://www.linkedin.com/in/https://www.linkedin.com/in/karolina-sas//) ``` LinkedIn profile``` 
