@@ -7,7 +7,8 @@ Thanks to Raspberry Pi I am also familiarizing myself with Unix environment and 
 
 ```
 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I am currently learning frontend technologies and Python.
+Thanks to Raspberry Pi I am also familiarizing myself with Unix environment and physical computing.)](https://git.io/typing-svg)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linux.svg' alt='linux' height='40'>](l)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='css3' height='40'>](l)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html5' height='40'>](l)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' height='40'>](i)  
 
