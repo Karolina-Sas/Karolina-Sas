@@ -1,6 +1,8 @@
 ![Beznazwy-2](https://user-images.githubusercontent.com/68974023/166577806-a3b537f4-7549-4d01-baed-a2fdb67b64e4.png)
 
+<p align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=consolas&weight=500&size=40&pause=1000&color=98E2F7&center=true&vCenter=true&width=435&lines=Karolina+Sas)](https://git.io/typing-svg)
+ </p>
 
 ```diff
 I am currently learning frontend technologies and Python.
@@ -19,8 +21,6 @@ Thanks to Raspberry Pi I am also familiarizing myself with Unix environment and 
 <img align="left" img height="42" width="42" style="padding-right:20px;"  src="https://cdn.simpleicons.org/Python/BCADE5" />\
  </p>
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=62B3F7&width=435&lines=Python)](https://git.io/typing-svg)\
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linux.svg' alt='linux' height='40'>](l)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='css3' height='40'>](l)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html5' height='40'>](l)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' height='40'>](i)  
