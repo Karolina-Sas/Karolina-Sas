@@ -1,6 +1,7 @@
 ![Beznazwy-2](https://user-images.githubusercontent.com/68974023/166577806-a3b537f4-7549-4d01-baed-a2fdb67b64e4.png)
 
 <p align="center">
+ 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=consolas&weight=500&size=40&pause=1000&color=98E2F7&center=true&vCenter=true&width=435&lines=Karolina+Sas)](https://git.io/typing-svg)
  </p>
 
