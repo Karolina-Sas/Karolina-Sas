@@ -23,7 +23,8 @@ Thanks to Raspberry Pi I am also familiarizing myself with Unix environment and 
  </p>
 
 </br>
-How to reach me:
+</br>How to reach me:
+</br>
 </br>
 
 
