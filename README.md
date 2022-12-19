@@ -7,9 +7,9 @@ Thanks to Raspberry Pi I am also familiarizing myself with Unix environment and 
 
 ```
 <p align="center">
-<img align="left" img height="42" width="42" style="margin-right: 50px;" src="https://cdn.simpleicons.org/Linux/BCADE5" /> 
-<img align="left" img height="42" width="42" style="margin-right: 50px;" src="https://cdn.simpleicons.org/Windows/BCADE5" /> 
-<img align="left" img height="42" width="42" style="padding:20px;"  src="https://cdn.simpleicons.org/Raspberrypi/BCADE5" />
+<img align="left" img height="42" width="42" style="margin-right: 20px;" src="https://cdn.simpleicons.org/Linux/BCADE5" /> 
+<img align="left" img height="42" width="42" style="margin-right: 20px;" src="https://cdn.simpleicons.org/Windows/BCADE5" /> 
+<img align="left" img height="42" width="42" style="margin-right: 20px;"  src="https://cdn.simpleicons.org/Raspberrypi/BCADE5" />
 <img align="left" img height="42" width="42" style="padding-right:20px;"  src="https://cdn.simpleicons.org/Python/BCADE5" />
 <img align="left" img height="42" width="42" style="padding-right:20px;"  src="https://cdn.simpleicons.org/mySQL/BCADE5" />
 <img align="left" img height="42" width="42" style="padding-right:20px;"  src="https://cdn.simpleicons.org/CSS3/BCADE5" />
