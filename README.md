@@ -5,10 +5,9 @@
   
 
 
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=consolas&weight=500&size=60&pause=1000&color=000000AA&background=7BA1F100&center=true&vCenter=true&width=435&lines=Karolina+Sas)](https://git.io/typing-svg)
 
-<h3> Summary </h3>
+<h3> 👩🏻‍💻 Summary </h3>
 
 
 I am a motivated individual with a passion for learning and expanding my horizons. 
@@ -17,7 +16,9 @@ I am interested in computer science and would like to associate my future career
 I am currently learning about tools and technologies such as Python, Linux and physical computing. 
 My personal passion for video games also translates into learning about game engines and creating my own graphical asets.
 
-<h3> Technologies and systems </h3><br />
+<h3> 💻 Technologies and systems </h3><br />
+
+
 
 <p align="center">
 <img align="left" img height="42" width="42" style="margin-right: 20px;" src="https://cdn.simpleicons.org/Linux/E582D8" /> 
@@ -31,19 +32,19 @@ My personal passion for video games also translates into learning about game eng
 <img align="left" img height="42" width="42" style="padding-right:20px;"  src="https://cdn.simpleicons.org/Unity/E582D8" />
  </p>
 
-
-
-
 <br />
   
 <br />
- <h3>Stats</h3>
+ <h3>📉 Stats</h3>
 
 
 ![Karolina's GitHub stats](https://github-readme-stats.vercel.app/api?username=karolina-sas&show_icons=true&theme=cobalt)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karolina-sas&theme=cobalt)
+
+
+
 
 
 
