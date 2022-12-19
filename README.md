@@ -7,8 +7,7 @@ Thanks to Raspberry Pi I am also familiarizing myself with Unix environment and 
 
 ```
 
-<img height="42" width="42" src="https://cdn.simpleicons.org/Linux/BCADE5" /> 
-<img height="42" width="42" src="https://cdn.simpleicons.org/Windows/BCADE5" />
+<img height="42" width="42" src="https://cdn.simpleicons.org/Linux/BCADE5" /> <img height="42" width="42" src="https://cdn.simpleicons.org/Windows/BCADE5" />
 <img height="42" width="42" src="https://cdn.simpleicons.org/Raspberrypi/BCADE5" />
 <img height="42" width="42" src="https://cdn.simpleicons.org/Python/BCADE5" />
 <img height="42" width="42" src="https://cdn.simpleicons.org/CSS3/BCADE5" />
