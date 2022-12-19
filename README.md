@@ -19,8 +19,6 @@ My personal passion for video games also translates into learning about game eng
 
 <h3> Technologies and systems </h3><br />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=consolas&weight=500&pause=1000&color=7BA1F1&center=true&vCenter=true&width=435&lines=Operating+systems)](https://git.io/typing-svg)
-
 <p align="center">
 <img align="left" img height="42" width="42" style="margin-right: 20px;" src="https://cdn.simpleicons.org/Linux/E582D8" /> 
 <img align="left" img height="42" width="42" style="margin-right: 20px;" src="https://cdn.simpleicons.org/Windows/E582D8" /> 
@@ -35,17 +33,6 @@ My personal passion for video games also translates into learning about game eng
 
 
 
-<br /><br />
-<br />
-
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=consolas&weight=500&pause=1000&color=7BA1F1&center=true&vCenter=true&width=435&lines=Python+HTML+CSS)](https://git.io/typing-svg)
-
-<img align="left" img height="42" width="42" style="padding-right:20px;"  src="https://cdn.simpleicons.org/Python/E582D8" />
-<img align="left" img height="42" width="42" style="padding-right:20px;"  src="https://cdn.simpleicons.org/mySQL/E582D8" />
-<img align="left" img height="42" width="42" style="padding-right:20px;"  src="https://cdn.simpleicons.org/CSS3/E582D8" />
-<img align="left" img height="42" width="42" style="padding-right:20px;"  src="https://cdn.simpleicons.org/HTML5/E582D8" />
 
 <br />
   
