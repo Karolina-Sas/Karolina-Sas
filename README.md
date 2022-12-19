@@ -7,6 +7,7 @@ Thanks to Raspberry Pi I am also familiarizing myself with Unix environment and 
 
 ```
 <p align="center">
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg](https://cdn.simpleicons.org/Raspberrypi/BCADE5" />
 <img height="42" width="42" style="margin-right: 50px;" src="https://cdn.simpleicons.org/Linux/BCADE5" /> <img height="42" width="42" src="https://cdn.simpleicons.org/Windows/BCADE5" />
 <img height="42" width="42" style="padding:100px;"  src="https://cdn.simpleicons.org/Raspberrypi/BCADE5" />
 <img height="42" width="42" style="padding-right:100px;"  src="https://cdn.simpleicons.org/Python/BCADE5" />
