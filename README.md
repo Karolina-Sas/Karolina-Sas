@@ -16,7 +16,7 @@ How to reach me:
 
 
 
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' align="center" height='30'>](https://www.linkedin.com/in/https://www.linkedin.com/in/karolina-sas//) ```  LinkedIn profile``` 
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' align="center" height='30'>](https://www.linkedin.com/in/https://www.linkedin.com/in/karolina-sas//) ``` LinkedIn profile``` 
  
   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/steam.svg' align="center" alt='steam' height='30'>](https://steamcommunity.com/profiles/76561198830860627/) ``` Steam community``` 
  
