@@ -7,7 +7,8 @@ Thanks to Raspberry Pi I am also familiarizing myself with Unix environment and 
 
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=62B3F7&width=435&lines=Python;Linux;mySQL)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=62B3F7&width=435&lines=Python)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=62B3F7&width=435&lines=Linux)](https://git.io/typing-svg)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linux.svg' alt='linux' height='40'>](l)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='css3' height='40'>](l)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html5' height='40'>](l)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' height='40'>](i)  
 
