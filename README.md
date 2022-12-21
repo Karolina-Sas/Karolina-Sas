@@ -30,6 +30,7 @@ My personal passion for video games also translates into learning about game eng
 <img align="left" img height="42" width="42" style="padding-right:20px;"  src="https://cdn.simpleicons.org/HTML5/E582D8" />
 <img align="left" img height="42" width="42" style="padding-right:20px;"  src="https://cdn.simpleicons.org/Wireshark/E582D8" />
 <img align="left" img height="42" width="42" style="padding-right:20px;"  src="https://cdn.simpleicons.org/Unity/E582D8" />
+<img align="left" img height="42" width="42" style="padding-right:20px;"  src="https://cdn.simpleicons.org/Github/E582D8" />
  </p>
 
 <br />
