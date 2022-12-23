@@ -48,7 +48,6 @@ My personal passion for video games also translates into learning about game eng
 
 
 
-
 <h3> 📳 How to reach me:</h3>
 
 [<img align="left" img height="42" width="42" style="padding-right:20px;"  src="https://cdn.simpleicons.org/Linkedin/7BA1F1" />](https://www.linkedin.com/in/https://www.linkedin.com/in/karolina-sas//) ``` LinkedIn profile```
@@ -60,7 +59,9 @@ My personal passion for video games also translates into learning about game eng
 [<img align="left" img height="42" width="42" style="padding-right:20px;"  src="https://cdn.simpleicons.org/Behance/7BA1F1" />](https://www.behance.net/karolinasas/projects)  ``` Behance portfolio``` 
 
 
+</br>
 
+![](https://komarev.com/ghpvc/?username=Karolina-Sas&color=7BA1F1&style=flat-square)
 
 
  
