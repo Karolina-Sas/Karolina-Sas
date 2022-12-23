@@ -21,30 +21,35 @@ My personal passion for video games also translates into learning about game eng
 
 
 <p align="center">
-<img align="left" img height="42" width="42" style="margin-right: 20px;" src="https://cdn.simpleicons.org/Linux/E582D8" /> 
-<img align="left" img height="42" width="42" style="margin-right: 20px;" src="https://cdn.simpleicons.org/Windows/E582D8" /> 
-<img align="left" img height="42" width="42" style="margin-right: 20px;"  src="https://cdn.simpleicons.org/Raspberrypi/E582D8" />
-<img align="left" img height="42" width="42" style="padding-right:20px;"  src="https://cdn.simpleicons.org/Python/E582D8" />
-<img align="left" img height="42" width="42" style="padding-right:20px;"  src="https://cdn.simpleicons.org/mySQL/E582D8" />
-<img align="left" img height="42" width="42" style="padding-right:20px;"  src="https://cdn.simpleicons.org/CSS3/E582D8" />
-<img align="left" img height="42" width="42" style="padding-right:20px;"  src="https://cdn.simpleicons.org/HTML5/E582D8" />
-<img align="left" img height="42" width="42" style="padding-right:20px;"  src="https://cdn.simpleicons.org/Wireshark/E582D8" />
-<img align="left" img height="42" width="42" style="padding-right:20px;"  src="https://cdn.simpleicons.org/Unity/E582D8" />
-<img align="left" img height="42" width="42" style="padding-right:20px;"  src="https://cdn.simpleicons.org/Github/E582D8" />
+  <img align="left" img height="42" width="42" style="margin-right: 20px;" src="https://cdn.simpleicons.org/Linux/E582D8" /> 
+  <img align="left" img height="42" width="42" style="margin-right: 20px;" src="https://cdn.simpleicons.org/Windows/E582D8" /> 
+  <img align="left" img height="42" width="42" style="margin-right: 20px;"  src="https://cdn.simpleicons.org/Raspberrypi/E582D8" />
+  <img align="left" img height="42" width="42" style="padding-right:20px;"  src="https://cdn.simpleicons.org/Python/E582D8" />
+  <img align="left" img height="42" width="42" style="padding-right:20px;"  src="https://cdn.simpleicons.org/mySQL/E582D8" />
+  <img align="left" img height="42" width="42" style="padding-right:20px;"  src="https://cdn.simpleicons.org/CSS3/E582D8" />
+  <img align="left" img height="42" width="42" style="padding-right:20px;"  src="https://cdn.simpleicons.org/HTML5/E582D8" />
+  <img align="left" img height="42" width="42" style="padding-right:20px;"  src="https://cdn.simpleicons.org/Wireshark/E582D8" />
+  <img align="left" img height="42" width="42" style="padding-right:20px;"  src="https://cdn.simpleicons.org/Unity/E582D8" />
+  <img align="left" img height="42" width="42" style="padding-right:20px;"  src="https://cdn.simpleicons.org/Github/E582D8" />
  </p>
 
 <br />
   
 <br />
- <h3>📉 Stats</h3>
+<h3>📉 Stats</h3>
 
 
-![Karolina's GitHub stats](https://github-readme-stats.vercel.app/api?username=karolina-sas&show_icons=true&theme=cobalt)
+![Karolina's GitHub stats](https://github-readme-stats.vercel.app/api?username=karolina-sas&show_icons=true&theme=material-palenight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karolina-sas&theme=material-palenight&hide=jupyter%20notebook&layout=compact)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karolina-sas&theme=cobalt)
-
-
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=karolina-sas&show_icons=true&theme=material-palenight" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karolina-sas&theme=material-palenight&hide=jupyter%20notebook&layout=compact" />
+   -->
 
 
 
