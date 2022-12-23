@@ -71,9 +71,9 @@ My personal passion for video games also translates into learning about game eng
 <h3>📉 Stats</h3>
 
 
-![Karolina's GitHub stats](https://github-readme-stats.vercel.app/api?username=karolina-sas&show_icons=true&theme=material-palenight)
+![Karolina's GitHub stats](https://github-readme-stats.vercel.app/api?username=karolina-sas&show_icons=true&theme=material-palenight&border_color=ff59ff)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karolina-sas&theme=material-palenight&hide=jupyter%20notebook&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karolina-sas&theme=material-palenight&hide=jupyter%20notebook&layout=compact&border_color=ff59ff)
 
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
