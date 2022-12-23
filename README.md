@@ -18,9 +18,40 @@ My personal passion for video games also translates into learning about game eng
 
 <h3> 💻 Technologies and systems </h3><br />
 
+![Linux](https://custom-icon-badges.demolab.com/badge/-Linux-A5ABCC?style=for-the-badge)
+![Linux](https://custom-icon-badges.demolab.com/badge/-Windows-A5ABCC?style=for-the-badge)
+![Raspberry](https://custom-icon-badges.demolab.com/badge/-Raspberry-A5ABCC?style=for-the-badge)
 
+<img align="left" img height="42" width="42" style="margin-right: 500px;" src="https://cdn.simpleicons.org/Linux/494161" /> 
+<img align="left" img height="42" width="42" style="margin-right: 500px;" src="https://cdn.simpleicons.org/Windows/494161" /> 
+<img align="left" img height="42" width="42" style="margin-right: 20px;"  src="https://cdn.simpleicons.org/Raspberrypi/494161" />
 
-<p align="center">
+</br></br>
+
+![Linux](https://custom-icon-badges.demolab.com/badge/-Python-AE82CE?style=for-the-badge)
+![Linux](https://custom-icon-badges.demolab.com/badge/-mySQL-AE82CE?style=for-the-badge)
+![Raspberry](https://custom-icon-badges.demolab.com/badge/-HTML5-AE82CE?style=for-the-badge)
+![Raspberry](https://custom-icon-badges.demolab.com/badge/-CSS3-AE82CE?style=for-the-badge)
+
+ <img align="left" img height="42" width="42" style="padding-right:20px;"  src="https://cdn.simpleicons.org/Python/494161" />
+ <img align="left" img height="42" width="42" style="padding-right:20px;"  src="https://cdn.simpleicons.org/mySQL/494161" />
+ <img align="left" img height="42" width="42" style="padding-right:20px;"  src="https://cdn.simpleicons.org/CSS3/494161" />
+ <img align="left" img height="42" width="42" style="padding-right:20px;"  src="https://cdn.simpleicons.org/HTML5/494161" />
+
+</br></br>
+
+![Linux](https://custom-icon-badges.demolab.com/badge/-Wireshark-A5ABCC?style=for-the-badge)
+![Linux](https://custom-icon-badges.demolab.com/badge/-Unity-A5ABCC?style=for-the-badge)
+![Raspberry](https://custom-icon-badges.demolab.com/badge/-Github-A5ABCC?style=for-the-badge)
+![Raspberry](https://custom-icon-badges.demolab.com/badge/-VisualStudioCode-A5ABCC?style=for-the-badge)
+
+  <img align="left" img height="42" width="42" style="padding-right:20px;"  src="https://cdn.simpleicons.org/Wireshark/494161" />
+  <img align="left" img height="42" width="42" style="padding-right:20px;"  src="https://cdn.simpleicons.org/Unity/494161" />
+  <img align="left" img height="42" width="42" style="padding-right:20px;"  src="https://cdn.simpleicons.org/Github/494161" /
+
+</br></br>
+       
+<!-- <p align="center">
   <img align="left" img height="42" width="42" style="margin-right: 20px;" src="https://cdn.simpleicons.org/Linux/E582D8" /> 
   <img align="left" img height="42" width="42" style="margin-right: 20px;" src="https://cdn.simpleicons.org/Windows/E582D8" /> 
   <img align="left" img height="42" width="42" style="margin-right: 20px;"  src="https://cdn.simpleicons.org/Raspberrypi/E582D8" />
@@ -32,10 +63,10 @@ My personal passion for video games also translates into learning about game eng
   <img align="left" img height="42" width="42" style="padding-right:20px;"  src="https://cdn.simpleicons.org/Unity/E582D8" />
   <img align="left" img height="42" width="42" style="padding-right:20px;"  src="https://cdn.simpleicons.org/Github/E582D8" />
  </p>
-
 <br />
-  
-<br />
+<br /> -->
+ 
+ 
 <h3>📉 Stats</h3>
 
 
@@ -55,18 +86,18 @@ My personal passion for video games also translates into learning about game eng
 
 <h3> 📳 How to reach me:</h3>
 
-[<img align="left" img height="42" width="42" style="padding-right:20px;"  src="https://cdn.simpleicons.org/Linkedin/7BA1F1" />](https://www.linkedin.com/in/https://www.linkedin.com/in/karolina-sas//) ``` LinkedIn profile```
+[<img align="left" img height="42" width="42" style="padding-right:20px;"  src="https://cdn.simpleicons.org/Linkedin/AE82CE" />](https://www.linkedin.com/in/https://www.linkedin.com/in/karolina-sas//) ``` LinkedIn profile```
 <br/><br/>
  
-[<img align="left" img height="42" width="42" style="padding-right:20px;"  src="https://cdn.simpleicons.org/Steam/7BA1F1" />](https://steamcommunity.com/profiles/76561198830860627/) ``` Steam community``` 
+[<img align="left" img height="42" width="42" style="padding-right:20px;"  src="https://cdn.simpleicons.org/Steam/AE82CE" />](https://steamcommunity.com/profiles/76561198830860627/) ``` Steam community``` 
 <br/><br/>
  
-[<img align="left" img height="42" width="42" style="padding-right:20px;"  src="https://cdn.simpleicons.org/Behance/7BA1F1" />](https://www.behance.net/karolinasas/projects)  ``` Behance portfolio``` 
+[<img align="left" img height="42" width="42" style="padding-right:20px;"  src="https://cdn.simpleicons.org/Behance/AE82CE" />](https://www.behance.net/karolinasas/projects)  ``` Behance portfolio``` 
 
 
 </br>
 
-![](https://komarev.com/ghpvc/?username=Karolina-Sas&color=7BA1F1&style=flat-square)
+![](https://komarev.com/ghpvc/?username=Karolina-Sas&color=A5ABCC&style=flat-square)
 
 
  
