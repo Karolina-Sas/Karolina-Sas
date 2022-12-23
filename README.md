@@ -47,7 +47,8 @@ My personal passion for video games also translates into learning about game eng
 
   <img align="left" img height="42" width="42" style="padding-right:20px;"  src="https://cdn.simpleicons.org/Wireshark/494161" />
   <img align="left" img height="42" width="42" style="padding-right:20px;"  src="https://cdn.simpleicons.org/Unity/494161" />
-  <img align="left" img height="42" width="42" style="padding-right:20px;"  src="https://cdn.simpleicons.org/Github/494161" /
+  <img align="left" img height="42" width="42" style="padding-right:20px;"  src="https://cdn.simpleicons.org/Github/494161" />
+   <img align="left" img height="42" width="42" style="padding-right:20px;"  src="https://cdn.simpleicons.org/VisualStudioCode/494161" />
 
 </br></br>
        
@@ -84,7 +85,7 @@ My personal passion for video games also translates into learning about game eng
 
 
 
-<h3> 📳 How to reach me:</h3>
+<h3> ⌨ How to reach me</h3>
 
 
 [<img align="left" img height="34" width="34" style="padding-right:20px;"  src="https://cdn.simpleicons.org/Linkedin/AE82CE" />](https://www.linkedin.com/in/https://www.linkedin.com/in/karolina-sas//) <h4>LinkedIn profile</h4> 
