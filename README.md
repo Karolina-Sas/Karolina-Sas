@@ -51,21 +51,6 @@ My personal passion for video games also translates into learning about game eng
    <img align="left" img height="42" width="42" style="padding-right:20px;"  src="https://cdn.simpleicons.org/VisualStudioCode/494161" />
 
 </br></br>
-       
-<!-- <p align="center">
-  <img align="left" img height="42" width="42" style="margin-right: 20px;" src="https://cdn.simpleicons.org/Linux/E582D8" /> 
-  <img align="left" img height="42" width="42" style="margin-right: 20px;" src="https://cdn.simpleicons.org/Windows/E582D8" /> 
-  <img align="left" img height="42" width="42" style="margin-right: 20px;"  src="https://cdn.simpleicons.org/Raspberrypi/E582D8" />
-  <img align="left" img height="42" width="42" style="padding-right:20px;"  src="https://cdn.simpleicons.org/Python/E582D8" />
-  <img align="left" img height="42" width="42" style="padding-right:20px;"  src="https://cdn.simpleicons.org/mySQL/E582D8" />
-  <img align="left" img height="42" width="42" style="padding-right:20px;"  src="https://cdn.simpleicons.org/CSS3/E582D8" />
-  <img align="left" img height="42" width="42" style="padding-right:20px;"  src="https://cdn.simpleicons.org/HTML5/E582D8" />
-  <img align="left" img height="42" width="42" style="padding-right:20px;"  src="https://cdn.simpleicons.org/Wireshark/E582D8" />
-  <img align="left" img height="42" width="42" style="padding-right:20px;"  src="https://cdn.simpleicons.org/Unity/E582D8" />
-  <img align="left" img height="42" width="42" style="padding-right:20px;"  src="https://cdn.simpleicons.org/Github/E582D8" />
- </p>
-<br />
-<br /> -->
  
  
 <h3>📉 Stats</h3>
