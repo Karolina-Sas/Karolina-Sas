@@ -35,9 +35,9 @@ My personal passion for video games also translates into learning about game eng
 <img align="left" img height="42" width="42" style="margin-right: 500px;" src="https://cdn.simpleicons.org/Linux/494161" />  
 </dd></dl>
 
-<dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd>
+<dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl>
 <img align="left" img height="42" width="42" style="margin-right: 500px;" src="https://cdn.simpleicons.org/Windows/494161" />  
-</dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd>
+</dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl>
 
 <dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd>
 <img align="left" img height="42" width="42" style="margin-right: 500px;"  src="https://cdn.simpleicons.org/Raspberrypi/494161" /> 
@@ -48,13 +48,22 @@ My personal passion for video games also translates into learning about game eng
 
 ![Linux](https://custom-icon-badges.demolab.com/badge/-Python-AE82CE?style=for-the-badge)&nbsp;
 ![Linux](https://custom-icon-badges.demolab.com/badge/-mySQL-AE82CE?style=for-the-badge)&nbsp;
-![Raspberry](https://custom-icon-badges.demolab.com/badge/-HTML5-AE82CE?style=for-the-badge)&nbsp;
 ![Raspberry](https://custom-icon-badges.demolab.com/badge/-CSS3-AE82CE?style=for-the-badge)&nbsp;
-
+![Raspberry](https://custom-icon-badges.demolab.com/badge/-HTML5-AE82CE?style=for-the-badge)&nbsp;
+  <dl><dd>
  <img align="left" img height="42" width="42" style="padding-right:20px;"  src="https://cdn.simpleicons.org/Python/494161" />
+  </dd></dl>
+ <dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd>
  <img align="left" img height="42" width="42" style="padding-right:20px;"  src="https://cdn.simpleicons.org/mySQL/494161" />
+ </dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd>
+  
+  <dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dd><dl><dd>
  <img align="left" img height="42" width="42" style="padding-right:20px;"  src="https://cdn.simpleicons.org/CSS3/494161" />
+  </dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd>
+  
+  <dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dd><dl><dd><dd><dd><dl><dd>
  <img align="left" img height="42" width="42" style="padding-right:20px;"  src="https://cdn.simpleicons.org/HTML5/494161" />
+   </dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd>
 
 </br></br>
 
