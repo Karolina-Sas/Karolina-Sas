@@ -10,28 +10,45 @@
 <h3> 👩🏻‍💻 Summary </h3>
 
 
-I am a motivated individual with a passion for learning and expanding my horizons. 
-My analytical skills and attention to detail allow me to perform daily tasks at the highest level. 
-I am interested in computer science and would like to associate my future career with this field.
-I am currently learning about tools and technologies such as Python, Linux and physical computing. 
-My personal passion for video games also translates into learning about game engines and creating my own graphical asets.
+<h4>I am a motivated individual with a passion for learning and expanding my horizons. </h4>
+My analytical skills and attention to details allow me to perform daily tasks at the highest level. 
+I am interested in computer science and would like to associate my future career with this field. I try to organize ideas and abstract concepts into manageable action plans. On the other hand I can demonstrate my interest in creative activities - I like to work with abstractions, concepts and use my imagination a lot to express my ideas. 
+
+I am currently deepening my knowledge  of telecommunications fundamentals and technologies such as Python and Linux. Thanks to Rasberry Pi I was able to know the concept of physical computing and apply theoretical wisdom and the basics of Python programming to real-world, practical solutions. 
+
+My personal passion for video games also translates into learning about game engines and creating my own graphical assets. In my spare time, I really enjoy working on my own online dress-up game and preparing the graphic interface. 
 
 <h3> 💻 Technologies and systems </h3><br />
 
-![Linux](https://custom-icon-badges.demolab.com/badge/-Linux-A5ABCC?style=for-the-badge)
-![Linux](https://custom-icon-badges.demolab.com/badge/-Windows-A5ABCC?style=for-the-badge)
-![Raspberry](https://custom-icon-badges.demolab.com/badge/-Raspberry-A5ABCC?style=for-the-badge)
 
-<img align="left" img height="42" width="42" style="margin-right: 500px;" src="https://cdn.simpleicons.org/Linux/494161" /> 
-<img align="left" img height="42" width="42" style="margin-right: 500px;" src="https://cdn.simpleicons.org/Windows/494161" /> 
-<img align="left" img height="42" width="42" style="margin-right: 20px;"  src="https://cdn.simpleicons.org/Raspberrypi/494161" />
+![Linux](https://custom-icon-badges.demolab.com/badge/-Linux-A5ABCC?style=for-the-badge)&nbsp; 
+![Linux](https://custom-icon-badges.demolab.com/badge/-Windows-A5ABCC?style=for-the-badge)&nbsp;
+![Raspberry](https://custom-icon-badges.demolab.com/badge/-Raspberry-A5ABCC?style=for-the-badge)&nbsp;
+
+<!-- <dl>
+<dd>  <img align="left" img height="42" width="42" style="margin-right: 500px;" src="https://cdn.simpleicons.org/Linux/494161" />  </dd>
+</dl>
+ -->
+ 
+<dl><dd>
+<img align="left" img height="42" width="42" style="margin-right: 500px;" src="https://cdn.simpleicons.org/Linux/494161" />  
+</dd></dl>
+
+<dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd>
+<img align="left" img height="42" width="42" style="margin-right: 500px;" src="https://cdn.simpleicons.org/Windows/494161" />  
+</dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd>
+
+<dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd>
+<img align="left" img height="42" width="42" style="margin-right: 500px;"  src="https://cdn.simpleicons.org/Raspberrypi/494161" /> 
+</dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl>
+
 
 </br></br>
 
-![Linux](https://custom-icon-badges.demolab.com/badge/-Python-AE82CE?style=for-the-badge)
-![Linux](https://custom-icon-badges.demolab.com/badge/-mySQL-AE82CE?style=for-the-badge)
-![Raspberry](https://custom-icon-badges.demolab.com/badge/-HTML5-AE82CE?style=for-the-badge)
-![Raspberry](https://custom-icon-badges.demolab.com/badge/-CSS3-AE82CE?style=for-the-badge)
+![Linux](https://custom-icon-badges.demolab.com/badge/-Python-AE82CE?style=for-the-badge)&nbsp;
+![Linux](https://custom-icon-badges.demolab.com/badge/-mySQL-AE82CE?style=for-the-badge)&nbsp;
+![Raspberry](https://custom-icon-badges.demolab.com/badge/-HTML5-AE82CE?style=for-the-badge)&nbsp;
+![Raspberry](https://custom-icon-badges.demolab.com/badge/-CSS3-AE82CE?style=for-the-badge)&nbsp;
 
  <img align="left" img height="42" width="42" style="padding-right:20px;"  src="https://cdn.simpleicons.org/Python/494161" />
  <img align="left" img height="42" width="42" style="padding-right:20px;"  src="https://cdn.simpleicons.org/mySQL/494161" />
@@ -40,15 +57,15 @@ My personal passion for video games also translates into learning about game eng
 
 </br></br>
 
-![Linux](https://custom-icon-badges.demolab.com/badge/-Wireshark-A5ABCC?style=for-the-badge)
-![Linux](https://custom-icon-badges.demolab.com/badge/-Unity-A5ABCC?style=for-the-badge)
-![Raspberry](https://custom-icon-badges.demolab.com/badge/-Github-A5ABCC?style=for-the-badge)
-![Raspberry](https://custom-icon-badges.demolab.com/badge/-VisualStudioCode-A5ABCC?style=for-the-badge)
+![Linux](https://custom-icon-badges.demolab.com/badge/-Wireshark-A5ABCC?style=for-the-badge)&nbsp;
+![Linux](https://custom-icon-badges.demolab.com/badge/-Unity-A5ABCC?style=for-the-badge)&nbsp;
+![Raspberry](https://custom-icon-badges.demolab.com/badge/-Github-A5ABCC?style=for-the-badge)&nbsp;
+![Raspberry](https://custom-icon-badges.demolab.com/badge/-Visual%20Studio%20Code-A5ABCC?style=for-the-badge)&nbsp;
 
-  <img align="left" img height="42" width="42" style="padding-right:20px;"  src="https://cdn.simpleicons.org/Wireshark/494161" />
-  <img align="left" img height="42" width="42" style="padding-right:20px;"  src="https://cdn.simpleicons.org/Unity/494161" />
+  <img align="left" img height="42" width="42" style="margin-right:40px;"  src="https://cdn.simpleicons.org/Wireshark/494161" />
+  <img align="left" img height="42" width="42" style="margin-right:100px"  src="https://cdn.simpleicons.org/Unity/494161" />
   <img align="left" img height="42" width="42" style="padding-right:20px;"  src="https://cdn.simpleicons.org/Github/494161" />
-   <img align="left" img height="42" width="42" style="padding-right:20px;"  src="https://cdn.simpleicons.org/VisualStudioCode/494161" />
+  <img align="left" img height="42" width="42" style="padding-right:20px;"  src="https://cdn.simpleicons.org/VisualStudioCode/494161" />
 
 </br></br>
  
