@@ -67,9 +67,9 @@ My personal passion for video games also translates into learning about game eng
 
 </br></br>
 
-![Linux](https://custom-icon-badges.demolab.com/badge/-Wireshark-A5ABCC?style=for-the-badge)&nbsp;
+![Wireshark](https://custom-icon-badges.demolab.com/badge/-Wireshark-A5ABCC?style=for-the-badge)&nbsp;
 ![Linux](https://custom-icon-badges.demolab.com/badge/-Unity-A5ABCC?style=for-the-badge)&nbsp;
-![Raspberry](https://custom-icon-badges.demolab.com/badge/-Github-A5ABCC?style=for-the-badge)&nbsp;
+![Github](https://custom-icon-badges.demolab.com/badge/-Github-A5ABCC?style=for-the-badge)&nbsp;
 ![Raspberry](https://custom-icon-badges.demolab.com/badge/-Visual%20Studio%20Code-A5ABCC?style=for-the-badge)&nbsp;
 
   <img align="left" img height="42" width="42" style="margin-right:40px;"  src="https://cdn.simpleicons.org/Wireshark/494161" />
