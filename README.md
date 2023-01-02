@@ -76,18 +76,17 @@ My personal passion for video games also translates into learning about game eng
   <img align="left" img height="42" width="42" style="margin-right:40px;"  src="https://cdn.simpleicons.org/Wireshark/494161" />
 <dd><dl><dd><dl><dd><dl>
   
-  <dd><dl><dd><dl><dd><dl>
+<!--   <dd><dl><dd><dl><dd><dl> -->
   <img align="left" img height="42" width="42" style="margin-right:100px"  src="https://cdn.simpleicons.org/Unity/494161" />
-  <dd><dl><dd><dl><dd><dl>
+<!--   <dd><dl><dd><dl><dd><dl> -->
     
   <img align="left" img height="42" width="42" style="padding-right:20px;"  src="https://cdn.simpleicons.org/Github/494161" />
   <img align="left" img height="42" width="42" style="padding-right:20px;"  src="https://cdn.simpleicons.org/VisualStudioCode/494161" />
 
-</br></br>
+</br></br></br>
  
- 
-<h3>📉 Stats</h3>
-
+    
+ <h3>📉 Stats</h3><br />
 
 ![Karolina's GitHub stats](https://github-readme-stats.vercel.app/api?username=karolina-sas&show_icons=true&theme=material-palenight&border_color=ff59ff)
 
@@ -100,7 +99,6 @@ My personal passion for video games also translates into learning about game eng
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karolina-sas&theme=material-palenight&hide=jupyter%20notebook&layout=compact" />
    -->
-
 
 
 <h3> ⌨ How to reach me</h3>
