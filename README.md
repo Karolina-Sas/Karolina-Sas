@@ -72,8 +72,14 @@ My personal passion for video games also translates into learning about game eng
 ![Github](https://custom-icon-badges.demolab.com/badge/-Github-A5ABCC?style=for-the-badge)&nbsp;
 ![Raspberry](https://custom-icon-badges.demolab.com/badge/-Visual%20Studio%20Code-A5ABCC?style=for-the-badge)&nbsp;
 
+<dd><dl><dd><dl><dd><dl>
   <img align="left" img height="42" width="42" style="margin-right:40px;"  src="https://cdn.simpleicons.org/Wireshark/494161" />
+<dd><dl><dd><dl><dd><dl>
+  
+  <dd><dl><dd><dl><dd><dl>
   <img align="left" img height="42" width="42" style="margin-right:100px"  src="https://cdn.simpleicons.org/Unity/494161" />
+  <dd><dl><dd><dl><dd><dl>
+    
   <img align="left" img height="42" width="42" style="padding-right:20px;"  src="https://cdn.simpleicons.org/Github/494161" />
   <img align="left" img height="42" width="42" style="padding-right:20px;"  src="https://cdn.simpleicons.org/VisualStudioCode/494161" />
 
