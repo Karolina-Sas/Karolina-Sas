@@ -92,8 +92,8 @@ My personal passion for video games also translates into learning about game eng
  
     
  <h3>📉 Stats</h3></br>
-
-![Karolina's GitHub stats](https://github-readme-stats.vercel.app/api?username=karolina-sas&show_icons=true&theme=material-palenight&border_color=ff59ff)
+    
+![Karolina's GitHub stats](https://github-readme-stats.vercel.app/api?username=karolina-sas&count_private=true&show_icons=true&theme=material-palenight&border_color=ff59ff)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karolina-sas&theme=material-palenight&hide=jupyter%20notebook&layout=compact&border_color=ff59ff)
 
