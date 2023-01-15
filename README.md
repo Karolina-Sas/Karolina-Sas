@@ -49,7 +49,7 @@ My personal passion for video games also translates into learning about game eng
 ![Linux](https://custom-icon-badges.demolab.com/badge/-Python-AE82CE?style=for-the-badge)&nbsp;
 ![mySQL](https://custom-icon-badges.demolab.com/badge/-mySQL-AE82CE?style=for-the-badge)&nbsp;
 ![CSS3](https://custom-icon-badges.demolab.com/badge/-CSS3-AE82CE?style=for-the-badge)&nbsp;
-![Raspberry](https://custom-icon-badges.demolab.com/badge/-HTML5-AE82CE?style=for-the-badge)&nbsp;
+![HTML5](https://custom-icon-badges.demolab.com/badge/-HTML5-AE82CE?style=for-the-badge)&nbsp;
   <dl><dd>
  <img align="left" img height="42" width="42" style="padding-right:20px;"  src="https://cdn.simpleicons.org/Python/494161" />
   </dd></dl>
