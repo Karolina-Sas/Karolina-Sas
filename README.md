@@ -10,7 +10,7 @@
 <h3> 👩🏻‍💻 Summary </h3>
 
 
-<h4>I am a motivated individual with a passion for learning and expanding my horizons. </h4>
+<h3>I am a motivated individual with a passion for learning and expanding my horizons. </h3>
 My analytical skills and attention to details allow me to perform daily tasks at the highest level. 
 I am interested in computer science and would like to associate my future career with this field. I try to organize ideas and abstract concepts into manageable action plans. On the other hand I can demonstrate my interest in creative activities - I like to work with abstractions and use my imagination a lot to express the ideas. </br>
 
