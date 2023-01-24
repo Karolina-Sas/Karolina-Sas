@@ -46,7 +46,7 @@ My personal passion for video games also translates into learning about game eng
 
 </br></br>
 
-![Linux](https://custom-icon-badges.demolab.com/badge/-Python-AE82CE?style=for-the-badge)&nbsp;
+![Python](https://custom-icon-badges.demolab.com/badge/-Python-AE82CE?style=for-the-badge)&nbsp;
 ![mySQL](https://custom-icon-badges.demolab.com/badge/-mySQL-AE82CE?style=for-the-badge)&nbsp;
 ![CSS3](https://custom-icon-badges.demolab.com/badge/-CSS3-AE82CE?style=for-the-badge)&nbsp;
 ![HTML5](https://custom-icon-badges.demolab.com/badge/-HTML5-AE82CE?style=for-the-badge)&nbsp;
