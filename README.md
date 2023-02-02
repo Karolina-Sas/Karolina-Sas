@@ -1,8 +1,4 @@
 
-<!-- <p align="center">
-  <img width="300" height="300" src="https://user-images.githubusercontent.com/68974023/208530672-9149f879-4404-4a70-9a2c-4a17f8c02a22.png">
-</p> -->
-  
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=consolas&weight=500&size=60&pause=1000&color=000000AA&background=7BA1F100&center=true&vCenter=true&width=435&lines=Karolina+Sas)](https://git.io/typing-svg)
@@ -109,7 +105,6 @@ My personal passion for video games also translates into learning about game eng
 
 
 <h3> ⌨ How to reach me</h3>
-
 
 [<img align="left" img height="34" width="34" style="padding-right:20px;"  src="https://cdn.simpleicons.org/Linkedin/AE82CE" />](https://www.linkedin.com/in/https://www.linkedin.com/in/karolina-sas//) <h4>LinkedIn profile</h4> 
 
