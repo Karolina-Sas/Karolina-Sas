@@ -116,7 +116,7 @@ My personal passion for video games also translates into learning about game eng
 
 ![](https://komarev.com/ghpvc/?username=Karolina-Sas&color=A5ABCC&style=flat-square)
 
-
+</br></br>
  
 <!--
 **Karolina-Sas/Karolina-Sas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
