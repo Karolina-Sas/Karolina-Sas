@@ -113,7 +113,7 @@ My personal passion for video games also translates into learning about game eng
 [<img align="left" img height="34" width="34" style="padding-right:20px;"  src="https://cdn.simpleicons.org/Behance/AE82CE" />](https://www.behance.net/karolinasas/projects) <h4> Behance portfolio </h4>
 
 </br>
-
+ 
 ![](https://komarev.com/ghpvc/?username=Karolina-Sas&color=A5ABCC&style=flat-square)
 
 </br></br>
@@ -123,7 +123,7 @@ My personal passion for video games also translates into learning about game eng
 
 Here are some ideas to get you started:
 
-
+</br></br>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
