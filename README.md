@@ -106,7 +106,7 @@ My personal passion for video games also translates into learning about game eng
 
 <h3> ⌨ How to reach me</h3>
 
-[<img align="left" img height="34" width="34" style="padding-right:20px;"  src="https://cdn.simpleicons.org/Linkedin/AE82CE" />](https://www.linkedin.com/in/https://www.linkedin.com/in/karolina-sas//) <h4>LinkedIn profile</h4> 
+[<img align="left" img height="34" width="34" style="padding-right:20px;"  src="https://cdn.simpleicons.org/Linkedin/AE82CE" />](https://www.linkedin.com/in/karolina-sas//) <h4>LinkedIn profile</h4> 
 
 [<img align="left" img height="34" width="34" style="padding-right:20px;"  src="https://cdn.simpleicons.org/Steam/AE82CE" />](https://steamcommunity.com/profiles/76561198830860627/) <h4>Steam community </h4>
 
