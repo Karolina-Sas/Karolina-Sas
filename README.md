@@ -94,7 +94,7 @@ My personal passion for video games also translates into learning about game eng
        
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karolina-sas&theme=material-palenight&hide=jupyter%20notebook&layout=compact&border_color=ff59ff) -->
 
-[![Top Langs](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=karolina-sas&layout=compact&theme=material-palenight&hide=jupyter%20notebook&border_color=ff59ff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=karolina-sas&layout=compact&theme=material-palenight&hide=jupyter%20notebook&border_color=ff59ff)](https://github.com/anuraghazra/github-readme-stats)
     
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=karolina-sas&show_icons=true&theme=material-palenight" />
