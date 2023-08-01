@@ -103,6 +103,10 @@ My personal passion for video games also translates into learning about game eng
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karolina-sas&theme=material-palenight&hide=jupyter%20notebook&layout=compact" />
    -->
 
+ <!--<img align="left" img height="120" width="120" style="margin-right:100px"  src="https://github.com/Karolina-Sas/Karolina-Sas/assets/68974023/718ab1f4-82a0-4d27-810f-79893f378169"/>-->
+ 
+
+
 
 <h3> ⌨ How to reach me</h3>
 
