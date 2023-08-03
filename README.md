@@ -15,7 +15,7 @@ I am currently deepening my knowledge  of telecommunications fundamentals and te
 </br></br>
 My personal passion for video games also translates into learning about game engines and creating my own graphical assets. In my spare time, I really enjoy working on my own online dress-up game and preparing the graphic interface. 
 
-<h3> 💻 Technologies and systems </h3><br />
+<h3> 💻 Technologies and systems </h3><br /> 
 
 
 ![Linux](https://custom-icon-badges.demolab.com/badge/-Linux-A5ABCC?style=for-the-badge)&nbsp; 
@@ -36,7 +36,7 @@ My personal passion for video games also translates into learning about game eng
 </dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl>
 
 <dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd>
-<img align="left" img height="42" width="42" style="margin-right: 500px;"  src="https://cdn.simpleicons.org/Raspberrypi/494161" /> 
+<img align="left" img height="42" width="42" style="margin-right: 500px;"  src="https://cdn.simpleicons.org/Raspberrypi/494161" />  
 </dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl>
 
 
@@ -50,7 +50,7 @@ My personal passion for video games also translates into learning about game eng
  <img align="left" img height="42" width="42" style="padding-right:20px;"  src="https://cdn.simpleicons.org/Python/494161" />
   </dd></dl>
  <dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd>
- <img align="left" img height="42" width="42" style="padding-right:20px;"  src="https://cdn.simpleicons.org/mySQL/494161" />
+ <img align="left" img height="42" width="42" style="padding-right:20px;"  src="https://cdn.simpleicons.org/mySQL/494161" /> 
  </dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd>
   
   <dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dd><dl><dd>
@@ -108,7 +108,7 @@ My personal passion for video games also translates into learning about game eng
 
 
 
-<h3> ⌨ How to reach me</h3>
+<h3> ⌨ How to reach me</h3> <br />
 
 [<img align="left" img height="34" width="34" style="padding-right:20px;"  src="https://cdn.simpleicons.org/Linkedin/AE82CE" />](https://www.linkedin.com/in/karolina-sas//) <h4>LinkedIn profile</h4> 
 
