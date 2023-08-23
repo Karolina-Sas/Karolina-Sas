@@ -13,7 +13,7 @@ I am interested in computer science and would like to associate my future career
 </br>
 Currently, I'm focused on theory of testing and database managment system. I have fundamentals of telecommunication and technologies such as Python and Linux. Thanks to Rasberry Pi I was able to know the concept of physical computing and apply theoretical wisdom and the basics of Python programming to real-world, practical solutions. 
 </br></br>
-My personal passion for video games also translates into learning about game engines and creating my own graphical assets. In my spare time, I really enjoy working on my own online dress-up game and preparing the graphic interface. 
+On the other hand I can demonstrate my interest in creative activities. My personal passion for video games also translates into learning about game engines and creating my own graphical assets. In my spare time, I really enjoy working on my own online dress-up game and preparing the graphic interface. 
 
 <h3> 💻 Technologies and systems </h3><br /> 
 
