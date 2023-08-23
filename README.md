@@ -11,7 +11,7 @@ My analytical skills and attention to details allow me to perform daily tasks at
 I am interested in computer science and would like to associate my future career with this field. I try to organize ideas and abstract concepts into manageable action plans. On the other hand I can demonstrate my interest in creative activities - I like to work with abstractions and use my imagination a lot to express the ideas. </br>
 
 </br>
-I am currently deepening my knowledge  of telecommunications fundamentals and technologies such as Python and Linux. Thanks to Rasberry Pi I was able to know the concept of physical computing and apply theoretical wisdom and the basics of Python programming to real-world, practical solutions. 
+Currently, I'm focused on theory of testing and database managment system. I have fundamentals of telecommunication and technologies such as Python and Linux. Thanks to Rasberry Pi I was able to know the concept of physical computing and apply theoretical wisdom and the basics of Python programming to real-world, practical solutions. 
 </br></br>
 My personal passion for video games also translates into learning about game engines and creating my own graphical assets. In my spare time, I really enjoy working on my own online dress-up game and preparing the graphic interface. 
 
