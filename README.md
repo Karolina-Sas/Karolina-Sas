@@ -116,7 +116,7 @@ On the other hand I can demonstrate my interest in creative activities. My perso
 [<img align="left" img height="34" width="34" style="padding-right:20px;"  src="https://cdn.simpleicons.org/Steam/AE82CE" />](https://steamcommunity.com/profiles/76561198830860627/)
 [<img align="left" img height="34" width="34" style="padding-right:20px;"  src="https://cdn.simpleicons.org/Behance/AE82CE" />](https://www.behance.net/karolinasas/projects) <h4>Behance portfolio</h4>
 
-[<img align="left" img height="34" width="34" style="padding-right:20px;"  src="https://cdn.simpleicons.org/Behance/AE82CE" />](https://www.behance.net/karolinasas/projects)
+[<img align="left" img height="34" width="34" style="padding-right:20px;"  src="https://cdn.simpleicons.org/Behance/AE82CE" />](https://www.behance.net/karolinasas/projects)</br>
 [<img align="left" img height="34" width="34" style="padding-right:20px;"  src="https://cdn.simpleicons.org/Steam/AE82CE" />](https://steamcommunity.com/profiles/76561198830860627/)
 
 
