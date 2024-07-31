@@ -18,15 +18,15 @@ On the other hand I can demonstrate my interest in creative activities. My perso
 <h3> 💻 Technologies and systems </h3><br /> 
 
 
+[![Operating Systems](https://skillicons.dev/icons?i=windows,linux,raspberrypi,python,visualstudio,figma&theme=light)](https://skillicons.dev)
+
+<!--
+
 ![Linux](https://custom-icon-badges.demolab.com/badge/-Linux-A5ABCC?style=for-the-badge)&nbsp; 
 ![Windows](https://custom-icon-badges.demolab.com/badge/-Windows-A5ABCC?style=for-the-badge)&nbsp;
 ![Raspberry](https://custom-icon-badges.demolab.com/badge/-Raspberry-A5ABCC?style=for-the-badge)&nbsp;
+![SAP](https://custom-icon-badges.demolab.com/badge/-SAP-A5ABCC?style=for-the-badge)
 
-<!-- <dl>
-<dd>  <img align="left" img height="42" width="42" style="margin-right: 500px;" src="https://cdn.simpleicons.org/Linux/494161" />  </dd>
-</dl>
- -->
- 
 <dl><dd>
 <img align="left" img height="42" width="42" style="margin-right: 500px;" src="https://cdn.simpleicons.org/Linux/494161" />  
 </dd></dl>
@@ -84,8 +84,9 @@ On the other hand I can demonstrate my interest in creative activities. My perso
   <img align="left" img height="42" width="42" style="padding-right:20px;"  src="https://cdn.simpleicons.org/VisualStudioCode/494161" />
  <dd><dl><dd><dl><dd><dl></dd>
    </div> 
-</br></br></br>
- 
+
+
+-->
     
  <h3>📉 Stats</h3></br>
     
