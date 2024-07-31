@@ -111,16 +111,9 @@ On the other hand I can demonstrate my interest in creative activities. My perso
 
 <h3> ⌨ How to reach me</h3> <br />
 
-[<img align="left" img height="44" width="44" style="padding-right:20px;"  src="https://cdn.simpleicons.org/Linkedin/AE82CE" />](https://www.linkedin.com/in/karolina-sas//) <h5> LinkedIn profile </h5> </br>
-[<img align="left" img height="44" width="44" style="padding-right:20px;"  src="https://cdn.simpleicons.org/Steam/AE82CE" />](https://steamcommunity.com/profiles/76561198830860627/) <h5>Steam community</h5></br>
-[<img align="left" img height="44" width="44" style="padding-right:20px;"  src="https://cdn.simpleicons.org/Behance/AE82CE" />](https://www.behance.net/karolinasas/projects) <h5>Behance portfolio</h5> </br>
-
-
-</br>
- 
-![](https://komarev.com/ghpvc/?username=Karolina-Sas&color=A5ABCC&style=flat-square)
-
-</br></br>
+[<img align="left" img height="30" width="30" src="https://cdn.simpleicons.org/Linkedin/d4cce4" />](https://www.linkedin.com/in/karolina-sas//) 
+[<img align="left" img height="30" width="30" src="https://cdn.simpleicons.org/Steam/d4cce4" />](https://steamcommunity.com/profiles/76561198830860627/) 
+[<img align="left" img height="32" width="32" src="https://cdn.simpleicons.org/Behance/d4cce4" />](https://www.behance.net/karolinasas/projects) 
  
 <!--
 **Karolina-Sas/Karolina-Sas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
