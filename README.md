@@ -19,7 +19,7 @@ On the other hand I can demonstrate my interest in creative activities. My perso
 
 
 ![Linux](https://custom-icon-badges.demolab.com/badge/-Linux-A5ABCC?style=for-the-badge)&nbsp; 
-![Linux](https://custom-icon-badges.demolab.com/badge/-Windows-A5ABCC?style=for-the-badge)&nbsp;
+![Windows](https://custom-icon-badges.demolab.com/badge/-Windows-A5ABCC?style=for-the-badge)&nbsp;
 ![Raspberry](https://custom-icon-badges.demolab.com/badge/-Raspberry-A5ABCC?style=for-the-badge)&nbsp;
 
 <!-- <dl>
@@ -110,14 +110,9 @@ On the other hand I can demonstrate my interest in creative activities. My perso
 
 <h3> ⌨ How to reach me</h3> <br />
 
-[<img align="left" img height="34" width="34" style="padding-right:20px;"  src="https://cdn.simpleicons.org/Linkedin/AE82CE" />](https://www.linkedin.com/in/karolina-sas//) <h4>LinkedIn profile</h4> 
-
-[<img align="left" img height="34" width="34" style="padding-right:20px;"  src="https://cdn.simpleicons.org/Steam/AE82CE" />](https://steamcommunity.com/profiles/76561198830860627/) <h4>Steam community</h4>
-[<img align="left" img height="34" width="34" style="padding-right:20px;"  src="https://cdn.simpleicons.org/Steam/AE82CE" />](https://steamcommunity.com/profiles/76561198830860627/)
-[<img align="left" img height="34" width="34" style="padding-right:20px;"  src="https://cdn.simpleicons.org/Behance/AE82CE" />](https://www.behance.net/karolinasas/projects) <h4>Behance portfolio</h4>
-
-[<img align="left" img height="34" width="34" style="padding-right:20px;"  src="https://cdn.simpleicons.org/Behance/AE82CE" />](https://www.behance.net/karolinasas/projects)<h4>Behance portfolio</h4>
-[<img align="left" img height="34" width="34" style="padding-right:20px;"  src="https://cdn.simpleicons.org/Steam/AE82CE" />](https://steamcommunity.com/profiles/76561198830860627/) <h4>Steam community</h4>
+[<img align="left" img height="44" width="44" style="padding-right:20px;"  src="https://cdn.simpleicons.org/Linkedin/AE82CE" />](https://www.linkedin.com/in/karolina-sas//) <h5> LinkedIn profile </h5> </br>
+[<img align="left" img height="44" width="44" style="padding-right:20px;"  src="https://cdn.simpleicons.org/Steam/AE82CE" />](https://steamcommunity.com/profiles/76561198830860627/) <h5>Steam community</h5></br>
+[<img align="left" img height="44" width="44" style="padding-right:20px;"  src="https://cdn.simpleicons.org/Behance/AE82CE" />](https://www.behance.net/karolinasas/projects) <h5>Behance portfolio</h5> </br>
 
 
 </br>
